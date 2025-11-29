@@ -6,9 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url(/bg.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+   background-color: #222;
     color: #e5e5e5;
     padding: 20px; /* <- penting untuk HP */
 }
